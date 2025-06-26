@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @hmac0
 - 👀 I’m interested in Space Exploration, Sustainability, and Electric Vehicles
-- 🌱 I’m currently developing in Golang
-- 💞️ I’m looking to collaborate on anything I can find time for.
+- 🌱 I’m currently developing in CPP
 - 📫 Check out my website: http://haydenmaclean.com/
